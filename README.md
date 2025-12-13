@@ -60,7 +60,10 @@
 | **Draggable Thermostat** | **Tactile Button** |
 |:------------------------:|:------------------:|
 | ![Draggable-Thermostat](https://github.com/user-attachments/assets/291a9d7e-0529-4d29-9aa3-47982d7a3e68) | ![Tactile-Button](https://github.com/user-attachments/assets/b98b9ced-32d7-4463-ab30-62620f9cfd8a) |
-<img width="419" height="497" alt="Security-Panel" src="https://github.com/user-attachments/assets/1643f420-afd7-4e48-9f3a-792dcc2fdf5b" />
+
+| **Security Keypad** |
+|:-------------------:|
+| ![Security-Panel](https://github.com/user-attachments/assets/1643f420-afd7-4e48-9f3a-792dcc2fdf5b) |
 
 </div>
 
