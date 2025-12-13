@@ -26,13 +26,13 @@
 
 <div align="center">
 
-| **EnergyMeter Card** | **EnergyMeter Popup** |
-|:--------------------:|:---------------------:|
-| ![EnergyMeter-Card](https://github.com/user-attachments/assets/828c1df8-f7ec-47a3-a70a-9fe8e8c2072a) | ![EnergyMeter-Popup](https://github.com/user-attachments/assets/0565b65b-54c8-4831-8782-c8c58e2eadd8) |
+| **EnergyMeter Card** | **EnergyMeter Card V2** |
+|:--------------------:|:-----------------------:|
+| ![EnergyMeter-Card](https://github.com/user-attachments/assets/828c1df8-f7ec-47a3-a70a-9fe8e8c2072a) | ![EnergyMeter-Card-V2](https://github.com/user-attachments/assets/16720809-69ed-4475-b26c-e7f9b264693f) |
 
-| **EnergyMeter Card V2** | **EnergyMeter Card Raised** |
-|:-----------------------:|:---------------------------:|
-| ![EnergyMeter-Card-V2](https://github.com/user-attachments/assets/16720809-69ed-4475-b26c-e7f9b264693f) | ![EnergyMeter-Card-Raised](https://github.com/user-attachments/assets/d2f507ad-7430-4494-91c3-f131980b3923) |
+| **EnergyMeter Card Raised** | **EnergyMeter Popup** |
+|:--------------------------:|:---------------------:|
+| ![EnergyMeter-Card-Raised](https://github.com/user-attachments/assets/d2f507ad-7430-4494-91c3-f131980b3923) | ![EnergyMeter-Popup](https://github.com/user-attachments/assets/0565b65b-54c8-4831-8782-c8c58e2eadd8) |
 
 **Energy Graph**  
 ![Energy-Graph](https://github.com/user-attachments/assets/3ff5ca61-29c0-4a10-9f12-d4cecfada65a)
@@ -47,9 +47,9 @@
 |:-------------:|:----------------:|
 | ![Temp-Card](https://github.com/user-attachments/assets/549d40c4-3442-476a-bef3-e3da2def3372) | ![Temp-Card-V2](https://github.com/user-attachments/assets/0e599f3a-2676-455e-b195-893d6042515b) |
 
-| **Temp Card Raised** |
-|:--------------------:|
-| ![Temp-Card-Raised](https://github.com/user-attachments/assets/beba224d-ad74-4ba6-9c82-98f5972458f6) |
+| **Temp Card Raised** | **MedCabinet Card** |
+|:--------------------:|:-------------------:|
+| ![Temp-Card-Raised](https://github.com/user-attachments/assets/beba224d-ad74-4ba6-9c82-98f5972458f6) | ![MedCabinet-Card](https://github.com/user-attachments/assets/eefdbf1b-0e8d-4ac7-86cf-e73d20732cd7) |
 
 </div>
 
@@ -57,9 +57,9 @@
 
 <div align="center">
 
-| **MedCabinet Card** | **Draggable Thermostat** | **Tactile Button** |
-|:-------------------:|:------------------------:|:------------------:|
-| ![MedCabinet-Card](https://github.com/user-attachments/assets/eefdbf1b-0e8d-4ac7-86cf-e73d20732cd7) | ![Draggable-Thermostat](https://github.com/user-attachments/assets/291a9d7e-0529-4d29-9aa3-47982d7a3e68) | ![Tactile-Button](https://github.com/user-attachments/assets/b98b9ced-32d7-4463-ab30-62620f9cfd8a) |
+| **Draggable Thermostat** | **Tactile Button** |
+|:------------------------:|:------------------:|
+| ![Draggable-Thermostat](https://github.com/user-attachments/assets/291a9d7e-0529-4d29-9aa3-47982d7a3e68) | ![Tactile-Button](https://github.com/user-attachments/assets/b98b9ced-32d7-4463-ab30-62620f9cfd8a) |
 
 </div>
 
@@ -80,4 +80,3 @@ Jede Komponente liegt in einem eigenen Ordner mit Quellcode und README für schn
 </a>
 
 </div>
-
