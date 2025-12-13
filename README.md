@@ -63,7 +63,7 @@
 
 | **Security Keypad** |
 |:-------------------:|
-| ![Security-Panel](https://github.com/user-attachments/assets/1643f420-afd7-4e48-9f3a-792dcc2fdf5b) |
+| ![](![](https://github.com/user-attachments/assets/1643f420-afd7-4e48-9f3a-792dcc2fdf5b) width="300") |
 
 </div>
 
